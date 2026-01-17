@@ -131,7 +131,6 @@ Widget _buildMapView(LocationState locationState) {
 
 
 
-
   /// Construye la barra de búsqueda en el mapa.
   Widget _buildSearchBar() {
     return BlocBuilder<TourBloc, TourState>(
